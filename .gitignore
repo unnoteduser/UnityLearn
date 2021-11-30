@@ -1,1 +1,4 @@
 PlayerControl.cs.meta
+DetectCollisions.cs.meta
+SpawnManager.cs.meta
+.gitignore
